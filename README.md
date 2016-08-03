@@ -18,9 +18,9 @@ don't have hightech monitors or cameras at practice or games. This GPS device an
 every soccer player can manage their gameplay and improve.
 
 ##Installation
-To install gui application, download java files into a single directory. Move to that directory in terminal. Use:
-    'javac *.java
-    java SoccerTest/'
+####To install gui application, download java files into a single directory. Move to that directory in terminal.
+              'javac *.java'
+              'java SoccerTest/'
 
 ##Tests
 
