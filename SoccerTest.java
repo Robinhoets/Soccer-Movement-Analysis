@@ -1,5 +1,4 @@
 
-package soccertest;
 
 import javax.swing.*;
 
